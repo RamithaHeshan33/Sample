@@ -12,6 +12,7 @@ function App() {
   return (
     <div>
       <h1>{message || 'Loading...'}</h1>
+      <p>Welcome to the React frontend!</p>
     </div>
   );
 }
